@@ -1,9 +1,11 @@
 ### Hi there 👋
-Just a computer engineering student at GIKI.<br>
+Just a computer engineering student at GIKI.<br><br>
 ![Ah_bb's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhabbscienceStudioPak&show_icons=true&theme=dark)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AhabbscienceStudioPak&theme=dark)
 
 <!--
 **AhabbscienceStudioPak/AhabbscienceStudioPak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
