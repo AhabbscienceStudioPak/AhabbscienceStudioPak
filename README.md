@@ -1,4 +1,5 @@
 ### Hi there 👋
+Just a computer engineering student at GIKI.
 ![Ah_bb's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhabbscienceStudioPak&show_icons=true&theme=dark)
 
 <!--
